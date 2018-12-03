@@ -12,5 +12,5 @@ function min(a:number, b:number): number {
   }
 }
 
-var c = min(101, 201);
-console.log(c);
+var z = min(101, 201);
+console.log(z);
